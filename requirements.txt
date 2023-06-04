@@ -1,0 +1,7 @@
+python=3.8
+pytorch=1.8
+cudatoolkit=11.1
+pyg=2.0.1
+transformers=4.21
+accelerate=0.12
+nltk=3.6
