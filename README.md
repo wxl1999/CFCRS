@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation for the paper:
 
-> Xiaolei Wang, Kun Zhou, Xinyu Tang, Xin Zhao, Fan Pan, Zhao Cao, Ji-Rong Wen. Improving Conversational Recommendation Systems via Counterfactual Data Simulation. KDD 2023.
+> Xiaolei Wang, Kun Zhou, Xinyu Tang, Wayne Xin Zhao, Fan Pan, Zhao Cao, Ji-Rong Wen. Improving Conversational Recommendation Systems via Counterfactual Data Simulation. KDD 2023.
 
 ## Overview
 
